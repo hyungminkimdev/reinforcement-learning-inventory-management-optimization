@@ -135,13 +135,12 @@ For a comprehensive explanation of the methodology, code, and findings, see the 
 ---
 
 ### slrlModels2
-![sl_rl_model_uncertainties](https://github.com/user-attachments/assets/91469233-758e-4482-b331-cf7cd68a122f)
-![sl_rl_model_training_rewards_2](https://github.com/user-attachments/assets/44b88555-0bfc-4812-8d93-9dd233a4e5b6)
-![sl_rl_model_performance_2](https://github.com/user-attachments/assets/0d2d1158-3c3b-4cb3-bfbd-0c99c71e9536)
-![sl_rl_model_loss_2](https://github.com/user-attachments/assets/cd9bb0b8-6cc6-4b65-8e23-0529cbb448d7)
-
+<img src="https://github.com/user-attachments/assets/91469233-758e-4482-b331-cf7cd68a122f" width="50%">
+<img src="https://github.com/user-attachments/assets/44b88555-0bfc-4812-8d93-9dd233a4e5b6" width="50%">
+<img src="https://github.com/user-attachments/assets/0d2d1158-3c3b-4cb3-bfbd-0c99c71e9536" width="50%">
+<img src="https://github.com/user-attachments/assets/cd9bb0b8-6cc6-4b65-8e23-0529cbb448d7" width="50%">
 
 ### Sensitive Analysis
-![max_stock](https://github.com/user-attachments/assets/7b0268d2-5740-4eaf-916c-d1b22a45e216)
-![max_order_2](https://github.com/user-attachments/assets/afaf64ec-f33e-4ed1-a607-b381e8589789)
-![max_order_1](https://github.com/user-attachments/assets/eb1a1598-8aa5-4772-a67c-f4c47738104b)
+<img src="https://github.com/user-attachments/assets/7b0268d2-5740-4eaf-916c-d1b22a45e216" width="50%">
+<img src="https://github.com/user-attachments/assets/afaf64ec-f33e-4ed1-a607-b381e8589789" width="50%">
+<img src="https://github.com/user-attachments/assets/eb1a1598-8aa5-4772-a67c-f4c47738104b" width="50%">
